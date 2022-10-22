@@ -3,24 +3,23 @@
 # Steps To Install:
 
 
-1. 
-Go To qb-core/client/functions.lua
+1. Go To qb-core/client/functions.lua
+.
 
 
-2.
-Find The Following Code:
+2. Find The Following Code:
 
 ``QBCore.Functions.Notify``
 
 This Is Located Around Line **88**
+.
 
 
-3.
-Delete From Around Line **88** To Around **111** Where The End Of That Function Is :)
+3. Delete From Around Line **88** To Around **111** Where The End Of That Function Is :)
+.
 
 
-4.
-Paste The Following Code In To Replace That Code!
+4. Paste The Following Code In To Replace That Code!
 
 ```lua
 function QBCore.Functions.Notify(text, textype, length)
