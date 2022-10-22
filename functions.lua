@@ -5,11 +5,11 @@ function QBCore.Functions.Notify(text, textype, length)
         local caption = text.caption or 'Placeholder'
         local ttype = textype or 'inform'
         local length = length or 3000
-        exports['okokNotify']:Alert("🔔   Notification   🔔", text, length, "info")
+        exports['okokNotify']:Alert("🔔  Notification  🔔", text, length, "info")
     else
         local ttype = textype or 'inform'
         local ttext = text.text or 'Placeholder'
         local length = length or 5000
-        exports['okokNotify']:Alert("🔔   Notification   🔔", text, length, "info")
+        exports['okokNotify']:Alert("🔔  Notification  🔔", text, length, "info")
     end
 end
