@@ -8,11 +8,9 @@
 .
 
 
-2. Find The Following Code:
+2. Find The Following Code:  This Is Located Around Line **88**
 
 ``QBCore.Functions.Notify``
-
-This Is Located Around Line **88**
 
 .
 
