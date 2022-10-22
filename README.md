@@ -4,7 +4,7 @@
 
 
 1. Go To qb-core/client/functions.lua
-2. 
+ 
 .
 
 
@@ -16,7 +16,7 @@
 
 
 3. Delete From Around Line **88** To Around **111** Where The End Of That Function Is :)
-4. 
+ 
 .
 
 
