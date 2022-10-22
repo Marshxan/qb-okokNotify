@@ -43,8 +43,10 @@ end
 .
 
 **Dependency's:**
-qb-core
-okokNotify
+
+**qb-core**
+
+**okokNotify**
 
 
 ## Preview 1:
