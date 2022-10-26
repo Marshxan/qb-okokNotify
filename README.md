@@ -44,9 +44,9 @@ end
 
 **Dependency's:**
 
-**qb-core**
+- [qb-core](https://github.com/qbcore-framework/qb-core)
+- [okokNotify](https://okok.tebex.io/package/4724993)
 
-**okokNotify**
 
 
 ## Preview 1:
